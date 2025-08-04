@@ -108,7 +108,8 @@ The analysis is conducted using **Python** for data cleaning, clustering, and vi
 
 📸 **Dashboard Screenshot Placeholder**: 
 
-![Dashboard](https://github.com/user-attachments/assets/0e131e59-6ec4-403b-9461-b0baa5eeaa46)
+![Dashboard](https://github.com/user-attachments/assets/56d7d340-4b5a-4f7f-8831-9dcb9197aee6)
+
 
 ---
 POWER BI DOWNLOADABLE FILE:https://drive.google.com/file/d/1LxbXCZSLnEmXpdfkyzJWI6p_8rwBCujF/view?usp=sharing
